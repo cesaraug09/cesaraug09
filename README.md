@@ -2,7 +2,7 @@
 
 - 🌱 Atualmente estudando JS e C#
 - 👾 Entusiasta em desenvolvimento web e jogos 2D
-- 💻 Programador da linguagem C!
+- 💻 Programador da linguagem C
 - 😄 Cursando Análise e Desenvolvimento de Sistemas - Ifpb
 
 <div style="display: inline_block"><br>
