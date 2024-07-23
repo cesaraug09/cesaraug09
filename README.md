@@ -1,6 +1,6 @@
 ## Olá, bem vindo ao meu perfil!
 
-- 🌱 Atualmente estudando Redes e React
+- 🌱 Atualmente estudando Redes e TypeScript
 - 👾 Entusiasta em desenvolvimento web e jogos 2D
 - 💻 Programador da linguagem JavaScript e C!
 - 😄 Cursando Análise e Desenvolvimento de Sistemas - Ifpb
