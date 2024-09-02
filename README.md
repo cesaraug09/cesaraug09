@@ -1,6 +1,6 @@
 ## Olá, bem vindo ao meu perfil!
 
-- 🌱 Atualmente estudando Redes e NodeJS
+- 🌱 Atualmente estudando Redes, NodeJS e MySQL
 - 👾 Entusiasta em desenvolvimento web e jogos 2D
 - 💻 Programador da linguagem JavaScript e C!
 - 😄 Cursando Análise e Desenvolvimento de Sistemas - Ifpb
@@ -11,6 +11,7 @@
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 </div>
   
   ##
