@@ -1,11 +1,12 @@
 ## Olá, bem vindo ao meu perfil!
 
-- 🌱 Atualmente estudando NodeJS e Banco de Dados
-- 👾 Entusiasta em desenvolvimento web e jogos 2D
-- 💻 Programador da linguagem JavaScript e C!
-- 😄 Cursando Análise e Desenvolvimento de Sistemas - Ifpb
+- 💻 Desenvolvedor Fullstack Web!
+- 🌱 Atualmente estudando Linguagem Java e React
+- 👾 Me interesso pela área de Gerenciamento de Dados e Desenvolvimento Mobile
+- 😄 Sempre buscando ampliar meus conhecimentos
 
-<div style="display: inline_block"><br>
+### Possuo conhecimento em...
+<div style="display: inline_block">
     <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
     <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -14,11 +15,14 @@
     <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
     <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
     <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
+    <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+    <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 </div>
   
   ##
-
-<a href="https://www.instagram.com/cesar.aug_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+### Me contate pelas seguintes plataformas:
+<a href="https://www.linkedin.com/in/cesar-augusto-598281331/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href = "mailto:cesar.caju@academico.ifpb.edu.br" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 <div>
   <a href= "https://github.com/cesaraug09">
